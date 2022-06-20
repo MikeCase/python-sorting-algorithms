@@ -17,3 +17,6 @@ Code for the sorting algorithms has comments with pseudo code for understanding 
 * ```sorting.py``` is for running the algo's
 * ```helper_decorators.py``` is the timing decorator.
 
+# Future
+
+* Possibly visualizing the sorting algorithms with python? maybe.
