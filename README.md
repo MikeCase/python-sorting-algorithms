@@ -18,5 +18,5 @@ Code for the sorting algorithms has comments with pseudo code for understanding 
 * ```helper_decorators.py``` is the timing decorator.
 
 # Future
-
+* Optimizing the algorithms
 * Possibly visualizing the sorting algorithms with python? maybe.
